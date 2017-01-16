@@ -1,0 +1,15 @@
+{
+  "name": "map-runtime",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Trying to make sense of cartographic programs, automatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Ledermann <florian.ledermann@tuwien.ac.at>",
+  "dependencies": {
+    "chrome-remote-interface": "0.17.1",
+    "ecstatic": "2.1.0"
+  }
+}
